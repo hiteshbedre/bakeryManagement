@@ -23,3 +23,4 @@ urlpatterns = [
     path('bakeryitem/', include('bakeryitem.urls')),
     path('orders/', include('orders.urls'))
 ]
+profile_pic = ""
