@@ -5,5 +5,3 @@ tr
 q
 qws
 as
-123
-qw
